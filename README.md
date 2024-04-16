@@ -1,1 +1,1 @@
-# 2048.github.io
+https://iamdarkv.github.io/2048/
